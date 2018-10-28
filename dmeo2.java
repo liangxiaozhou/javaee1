@@ -1,1 +1,1 @@
-sss¡¢
+private String name;
